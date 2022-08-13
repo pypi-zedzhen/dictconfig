@@ -3,7 +3,7 @@
 [GitHub](https://github.com/pypi-zedzhen/dictconfig)
 
 ## Установка
-> pip install dictconfig --index-url=pypi.zedzhen.ru
+> pip install dictconfig --index-url=https://pypi.zedzhen.ru/simple
 
 ## Использование
 ### BaseDictConfig(filename, func_read, func_write)
